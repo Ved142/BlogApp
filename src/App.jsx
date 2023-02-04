@@ -1,10 +1,13 @@
 import React from "react";
+import AuthPage from "./components/AuthPage";
+import Blog from "./components/Blog";
+import Blogs from "./components/Blogs";
 
 const App = () => {
   return (
     <div>
-      <h1>hello there</h1>
-      <p>Tis is a project</p>
+      {/* <AuthPage /> */}
+      <Blogs />
     </div>
   );
 };
