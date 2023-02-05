@@ -1,0 +1,51 @@
+.navbar {
+    
+    width: -webkit;
+    position:sticky;
+    top:0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 8px;
+    padding-top: 20px ;
+    background-color: white;
+    z-index: 100;
+    opacity: 1;
+   
+   
+}
+.title {
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+}
+
+.nav-content{
+    align-items: center;
+}
+
+.content-items{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.signin{
+    align-items: center;
+}
+.button-login{
+    margin:5px;
+     width:73px;
+     height:35px;
+     border-radius: 10px;
+     border:0;
+}
+
+.signup{
+    background-color: black;
+    color:white;
+}
+
+.button-login:hover{
+    background-color: rgb(177, 175, 175);
+}

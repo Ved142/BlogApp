@@ -14,21 +14,21 @@ const Blog = (object) => {
       sx={{
         display: "flex",
         flexDirection: "column",
-        width: "300px",
-        // border: "3px solid red",
+        width: "280px",
       }}
     >
-      <Box id="blog_img">
+      <Box sx={{ height: "161px" }} id="blog_img">
         <img
           style={{
             height: "160px",
-            width: "300px",
+            width: "280px",
             objectFit: "cover",
+            borderRadius: "2px",
           }}
-          src="https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80"
+          src="https://plus.unsplash.com/premium_photo-1663852297654-56d979cf72d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"
         />
       </Box>
-      <Box sx={{ marginTop: "10px" }}>
+      <Box sx={{ padding: "10px", backgroundColor: "white" }}>
         <Typography
           sx={{
             width: "100%",

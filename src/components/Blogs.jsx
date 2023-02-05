@@ -18,9 +18,8 @@ const Blogs = () => {
     <Box
       sx={{
         margin: "20px",
-
         background: "RGB(248, 250, 253)",
-        padding: "20px",
+        padding: "25px",
       }}
     >
       <Box sx={{ display: "flex", justifyContent: "space-between" }}>
@@ -32,7 +31,18 @@ const Blogs = () => {
             More Blogs we love
           </Typography>
         </Box>
-        <button>Click me</button>
+        <button
+          style={{
+            backgroundColor: "black",
+            color: "white",
+            width: "100px",
+            height: "35px",
+            padding: "0px 4px",
+            borderRadius: "5px",
+          }}
+        >
+          Read More
+        </button>
       </Box>
       <Box
         sx={{ display: "flex", justifyContent: "space-around", margin: "20px" }}
