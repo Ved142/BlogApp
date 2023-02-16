@@ -5,6 +5,7 @@ import Blog from "./components/Blog";
 import Blogs from "./components/Blogs";
 import Featured from "./components/Featured";
 import Navbar from "./components/Navbar";
+import Explore from "./components/Explore";
 
 const App = () => {
   return (
@@ -20,6 +21,11 @@ const App = () => {
           </>
         }
       />
+      <Route 
+        path="/blogs"
+        element={
+          <Explore/>
+        }/>
     </Routes>
   );
 };
