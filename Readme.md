@@ -15,7 +15,7 @@ This project is a Blogging site to post and read Blogs about various topics. It 
 
 
 ## Explore Page
-<img width="960" alt="image" src="https://github.com/Ved142/BlogApp/assets/100083207/b41a761f-9e91-47a6-af10-e2d1b43b2cad">
+<img width="960" alt="image" src="https://github.com/Ved142/BlogApp/assets/78460491/4b820d30-12ae-432d-a9e6-8953c4744326">
 <img width="960" alt="image" src="https://github.com/Ved142/BlogApp/assets/78460491/4012023e-569a-4921-b41e-c2a721cf278b">
 
 ## Adding New Blog
