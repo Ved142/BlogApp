@@ -5,11 +5,20 @@ https://crabby-jay-loafers.cyclic.app/
 This project is a Blogging site to post and read Blogs about various topics. It is based on MERN stack. It uses Firebase for user authentication.
 
 ## Sign in page
-![Screenshot (1)](https://github.com/Ved142/BlogApp/assets/100083207/164e33b1-f6fb-4315-8614-4c9897de413c)
+<img width="960" alt="image" src="https://github.com/Ved142/BlogApp/assets/78460491/916dac4d-87a1-4fc6-bb2c-d2b5c3c0e565">
+
 
 ## Home Page
-![Screenshot (2)](https://github.com/Ved142/BlogApp/assets/100083207/fdb80412-0bce-4187-88ed-2c8baf45d165)
+<img width="960" alt="image" src="https://github.com/Ved142/BlogApp/assets/78460491/aed56060-90f1-423f-ad89-021657399651">
+<img width="960" alt="image" src="https://github.com/Ved142/BlogApp/assets/78460491/694487f9-d3ac-45f2-8c74-2684434a307b">
+
+
 
 ## Explore Page
-![Screenshot (3)](https://github.com/Ved142/BlogApp/assets/100083207/b41a761f-9e91-47a6-af10-e2d1b43b2cad)
+<img width="960" alt="image" src="https://github.com/Ved142/BlogApp/assets/100083207/b41a761f-9e91-47a6-af10-e2d1b43b2cad">
+<img width="960" alt="image" src="https://github.com/Ved142/BlogApp/assets/78460491/4012023e-569a-4921-b41e-c2a721cf278b">
+
+## Adding New Blog
+<img width="960" alt="image" src="https://github.com/Ved142/BlogApp/assets/78460491/40c9f26d-7f86-43bb-ab55-d3d073e61599">
+
 
